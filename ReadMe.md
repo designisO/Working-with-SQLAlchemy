@@ -21,3 +21,8 @@ SQLAlchemy can be used with or without the ORM features. Configurations with var
 - Integer : Defines the integer datatype in the table of Db.
 
 
+### Instalation
+
+pip install sqlalchemy
+
+
